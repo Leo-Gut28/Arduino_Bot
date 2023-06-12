@@ -7,3 +7,16 @@ In particular, the 4th Grand Challenge, “Prevent Nuclear Terror,”  test requ
 	The bot was operated using an Arduino microcontroller that had a BOE shield connected to it. The Arduino was attached to a large metal frame that housed the overall bot, including the servos and sensors. All circuits were connected through the Arduino for all sensors and servos and operated by uploading code to it. 
 	Throughout the course of the IDC experience, the overall goals were not only to successfully complete each task and communicate with the other bots but also to learn the engineering process from an electrical engineering perspective. The real-world applications of the bot designed for magnetic field sensing can be applied whenever the presence of a magnetic field is of concern but is limited in detecting magnetic field strength, such as proximity detection or speed reading. 
 
+## Bot SetUp
+![](https://github.com/Leo-Gut28/Arduino_Bot/blob/main/Bot_SetUp.png)
+
+## Diagrams 
+
+### RGB Sensor
+![](https://github.com/Leo-Gut28/Arduino_Bot/blob/main/RGB-Sensor_Diagram.png)
+
+### Hall Effect Sensor
+![](https://github.com/Leo-Gut28/Arduino_Bot/blob/main/Hall-Effect_Diagram.png)
+
+### I2C Display
+![](https://github.com/Leo-Gut28/Arduino_Bot/blob/main/Display_Diagram.png)
